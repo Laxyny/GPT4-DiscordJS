@@ -1,0 +1,53 @@
+{
+  "name": "laxylex",
+  "version": "1.0.0",
+  "description": "A simple Discord BOT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laxyny/Laxylex.git"
+  },
+  "author": "Laxyny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Laxyny/Laxylex/issues"
+  },
+  "homepage": "https://github.com/Laxyny/Laxylex#readme",
+  "dependencies": {
+    "@discordjs/voice": "^0.16.1",
+    "@pipedream/platform": "^1.6.0",
+    "akaneko": "^5.3.0",
+    "aki-api": "^6.0.9",
+    "axios": "^1.6.8",
+    "discord-gamecord": "^4.4.1",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^14.14.1",
+    "discord.js-akinator": "^4.1.5",
+    "dotenv": "^16.4.5",
+    "ffmpeg-static": "^5.2.0",
+    "form-data": "^4.0.0",
+    "free-deepl": "^1.1.0",
+    "fs": "^0.0.1-security",
+    "g4f": "^1.4.3",
+    "got": "^12.0.4",
+    "libsodium-wrappers": "^0.7.13",
+    "lowdb": "^1.0.0",
+    "mediacord": "^1.2.1",
+    "moment": "^2.30.1",
+    "mongodb": "^6.5.0",
+    "mongoose": "^6.12.7",
+    "ms": "^2.1.3",
+    "pornhub.js": "^1.12.0",
+    "pornsearch": "^2.4.3",
+    "qrcode": "^1.5.3",
+    "quick.db": "^7.1.3",
+    "repeat": "^2.0.4",
+    "rss-parser": "^3.12.0",
+    "teamarcades.nsfw": "^1.0.5-beta",
+    "ultimate-nsfw": "^1.1.4",
+    "ytdl-core": "^4.11.5"
+  }
+}

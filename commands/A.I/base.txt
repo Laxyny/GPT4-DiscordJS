@@ -1,0 +1,17 @@
+const { SlashCommandBuilder, PermissionFlagsBits } = require('discord.js');
+
+module.exports = {
+
+    data: new SlashCommandBuilder()
+        .setName('')
+        .setDescription('')
+        .setDMPermission(false)
+        //.addStringOption(option => option.setName("question").setDescription("La question à poser").setRequired(true))
+        .setDefaultMemberPermissions(null),
+
+    async run(interaction) {
+
+        
+
+    }
+}
